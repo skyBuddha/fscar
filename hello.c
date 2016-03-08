@@ -5,5 +5,8 @@ int main(int argc, const char *argv[])
 	printf("helloworld!!");
 	puts("hello");
 	printf("world!!!");
+
+	printf("xxxxxxxxxxxxxxxxxxxxx\n");
+	puts("ooooooooooooooooooooooooo");
 	return 0;
 }
