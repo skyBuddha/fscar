@@ -1,0 +1,95 @@
+From d6023abc3d3882399efc6426b91a63253506d2c6 Mon Sep 17 00:00:00 2001
+From: skyBuddha <473150204@qq.com>
+Date: Tue, 8 Mar 2016 20:36:10 +0800
+Subject: [PATCH 3/3] hellogit add .!
+
+
+diff --git a/Makefile b/Makefile
+new file mode 100644
+index 0000000..299da67
+--- /dev/null
++++ b/Makefile
+@@ -0,0 +1,5 @@
++all:
++	gcc hello.c -o hello
++
++clean:
++	rm hello
+diff --git a/hello b/hello
+new file mode 100755
+index 0000000000000000000000000000000000000000..d2feae1d24681ae77f7948b406badc03c205b963
+GIT binary patch
+literal 8603
+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
+T8wMK5olC9f5m454*`MOyMXz~B
+
+literal 0
+HcmV?d00001
+
+diff --git a/hello.c b/hello.c
+index 2874886..3a61140 100644
+--- a/hello.c
++++ b/hello.c
+@@ -5,5 +5,8 @@ int main(int argc, const char *argv[])
+ 	printf("helloworld!!");
+ 	puts("hello");
+ 	printf("world!!!");
++
++	printf("xxxxxxxxxxxxxxxxxxxxx\n");
++	puts("ooooooooooooooooooooooooo");
+ 	return 0;
+ }
+-- 
+1.9.1
+

@@ -1,0 +1,21 @@
+From 3f4ee67c918a9d08e9811f89e33f6c96989020c4 Mon Sep 17 00:00:00 2001
+From: skyBuddha <473150204@qq.com>
+Date: Tue, 8 Mar 2016 20:25:29 +0800
+Subject: [PATCH 2/3] second git diff!
+
+
+diff --git a/hello.c b/hello.c
+index 87d397d..2874886 100644
+--- a/hello.c
++++ b/hello.c
+@@ -3,5 +3,7 @@ int main(int argc, const char *argv[])
+ {
+ 	puts("helloworld!");
+ 	printf("helloworld!!");
++	puts("hello");
++	printf("world!!!");
+ 	return 0;
+ }
+-- 
+1.9.1
+
